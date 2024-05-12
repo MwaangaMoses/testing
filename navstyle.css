@@ -1,0 +1,22 @@
+/* Basic styling for the navigation bar */
+.navbar {
+    background-color: #333; /* Set your desired background color */
+    overflow: hidden;
+  }
+  
+  /* Style for the navigation links */
+  .navbar a {
+    float: left;
+    display: block;
+    color: white; /* Set the link color */
+    text-align: center;
+    padding: 14px 16px; /* Adjust padding as needed */
+    text-decoration: none;
+  }
+  
+  /* Change link color on hover */
+  .navbar a:hover {
+    background-color: #ddd; /* Set the hover background color */
+    color: black; /* Set the hover link color */
+  }
+  
